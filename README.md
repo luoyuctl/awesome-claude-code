@@ -95,6 +95,7 @@ English | [简体中文](README-CN.md)
 |[claude-code-costs](https://github.com/philipp-spiess/claude-code-costs) | ![GitHub Repo stars](https://badgen.net/github/stars/philipp-spiess/claude-code-costs) | Cost tracking for Claude Code usage | Cost tracking tool|
 |[cctrace](https://github.com/jimmc414/cctrace) | ![GitHub Repo stars](https://badgen.net/github/stars/jimmc414/cctrace) | Export Claude Code chat sessions into markdown and XML | Session export tool|
 |[claude-code-otel](https://github.com/ColeMurray/claude-code-otel) | ![GitHub Repo stars](https://badgen.net/github/stars/ColeMurray/claude-code-otel) | Comprehensive observability solution for monitoring Claude Code usage, performance, and costs | Observability solution|
+|[agenttrace](https://github.com/luoyuctl/agenttrace) | ![GitHub Repo stars](https://badgen.net/github/stars/luoyuctl/agenttrace) | Local-first TUI and reports for Claude Code, Codex CLI, Gemini CLI, Aider, Cursor, OpenCode, and JSON/JSONL session logs | Multi-agent session analytics|
 
 ## Proxy & API Tools
 
